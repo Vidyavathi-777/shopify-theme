@@ -1,2 +1,2 @@
 # shopify-theme
-demo purpose
+demo purpose     
